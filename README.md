@@ -44,6 +44,7 @@ Using the song and log datasets, we have created a star schema optimized for que
 1. songplays - records in log data associated with song plays i.e. records with page NextSong
 
 **Dimension Tables**
+
 2. users - users in the app
 3. songs - songs in music database
 4. artists - artists in music database
